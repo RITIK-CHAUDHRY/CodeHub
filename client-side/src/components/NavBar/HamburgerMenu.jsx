@@ -178,7 +178,7 @@ const HamburgerMenu = () => {
             </li>
             {auth && (
               <li className="py-2 px-4 hover:text-blue1">
-                <a href="/leaderboard">Leaderboard</a>
+<a href="/leader-board">Leaderboard</a>
               </li>
             )}
           </ul>
